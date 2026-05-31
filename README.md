@@ -89,19 +89,82 @@ https://societyissuesresolver.42web.io
 
 ---
 
-## 📸 Screenshots
+## 📸 Project Screenshots
 
-### Dashboard
-(Add Dashboard Screenshot Here)
+### 🔐 Login Page
+User authentication system with secure login functionality.
 
-### Members Directory
-(Add Members Page Screenshot Here)
+![Login Page](screenshots/login_page.png)
 
-### Reminder Management
-(Add Reminder Screenshot Here)
+---
 
-### Issue Reporting
-(Add Issue Reporting Screenshot Here)
+### 🏠 Dashboard
+Central dashboard showing issue statistics, reminders, events and quick access modules.
+
+![Dashboard](screenshots/home_page.png)
+
+---
+
+### 👥 Living Members Directory
+View and manage society member records with search and filtering functionality.
+
+![Living Members](screenshots/living_members.png)
+
+---
+
+### 📝 Issue Reporting System
+Residents can report society issues and complaints for management review.
+
+![Issue Reporter](screenshots/issue_reporter.png)
+
+---
+
+### 🚨 Issues Management
+Track reported issues and monitor their status.
+
+![Issues](screenshots/issues.png)
+
+---
+
+### 📊 Issue Priority Tracking
+Manage and prioritize society complaints efficiently.
+
+![Priority Issues](screenshots/priority_issues.png)
+
+---
+
+### 🗳️ Resident Voting System
+Community voting feature for society-related decisions.
+
+![Resident Rights](screenshots/reserved_rights.png)
+
+---
+
+### ⏰ Reminder Management
+Create and manage reminders for maintenance, meetings and important events.
+
+![Reminders](screenshots/reminder.png)
+
+---
+
+### 📅 Society Timetable
+Schedule and track society activities and events.
+
+![Timetable](screenshots/timetable.png)
+
+---
+
+### 📈 Analytics Dashboard
+Visual representation of society issue statistics and reports.
+
+![Charts](screenshots/chart.png)
+
+---
+
+### 👤 Members Management
+Detailed member information and records management.
+
+![Members](screenshots/members.png)
 
 ---
 
